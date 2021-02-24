@@ -5,6 +5,8 @@ Códigos referentes ao artigo: "An Efficient Solution to Generate Meta-features 
 
 # Algoritmos
 
+Esta implementação utiliza como base o código do P-TWDTW, disponível em: https://github.com/savioteles/ptwdtw
+
 As duas versões do algortimo precisam dos mesmos requisitos para a execução. O Rapid-DTW possui diversas configurações. Por padrão ele está configurado para trabalhar com séries temporais de tamanhos pequenos (24 observações) e janelas de tamanho 2.
 
 ## Parâmetros do código
